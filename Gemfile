@@ -4,7 +4,7 @@ ruby file: ".ruby-version"
 
 gem "bcrypt", "~> 3.1.7"
 gem "bootsnap", require: false
-gem "image_processing", "~> 1.2"
+gem "image_processing", "~> 2.1"
 gem "importmap-rails"
 gem "jbuilder"
 gem "kamal", require: false
